@@ -24,6 +24,7 @@
 
 - 🧩 **Data Structures & Algorithms**
 - 🤖 **Machine Learning & AI**
+- 🧠 **Deep Learning & Neural Networks (TensorFlow/Keras)**
 - 🌐 **Full-Stack Development**
 - ⚙️ **Backend Development**
 - 🗄️ **DBMS & SQL**
@@ -118,6 +119,7 @@ Exploring the idea of a **GitHub portfolio that analyzes repositories and genera
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23444.svg?style=for-the-badge&logo=python&logoColor=white)
 
